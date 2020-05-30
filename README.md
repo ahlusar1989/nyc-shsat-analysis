@@ -10,5 +10,3 @@ Sources are:
 and
 
 [This NYC open dataset](https://data.cityofnewyork.us/Education/2017-2018-SHSAT-Admissions-Test-Offers-By-Sending-/vsgi-eeb5/)
-
-The full analysis of all Plotly figures can be viewed [here](https://nbviewer.jupyter.org/github/ahlusar1989/nyc-shsat-analysis/blob/master/analysis-nyc-education-shshat.ipynb)
